@@ -21,11 +21,6 @@ Working at the intersection of AI and software engineering with hands-on experie
 - **[Indian News Summarizer](https://github.com/EasyIce667/Indian-News-Summarization)**  
   Fine-tuned IndicBART to generate concise summaries of Hindi news articles. Deployed with a Gradio interface for interactive use.
 
-- **[Audio Emotion Recognition](https://github.com/EasyIce667/Emotion_detection)**  
-  Trained a deep learning model on the RAVDESS dataset to classify emotions from audio recordings. Includes a Streamlit-based app with waveform and spectrogram visualizations.
-
-- **Real-Time Face Recognition System**  
-  Developed a real-time facial recognition tool using OpenCV and dlib for face encoding and comparison on video streams.
 
 ### Experience
 - **AI & Azure Intern | Microsoft (Edunet Foundation x AICTE)**  
