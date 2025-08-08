@@ -16,8 +16,8 @@ Working at the intersection of AI and software engineering with hands-on experie
 - 
 
 ### Experience
-- **AI & Azure Intern | Microsoft (Edunet Foundation x AICTE)**  
-  Completed a 4-week hands-on internship working on machine learning, deep learning, and generative AI projects under industry mentorship.
+- **AI & Azure Intern | (Edunet Foundation x AICTE)**  
+Completed a 4-week internship on AI Azure a Microsoft initiative Implemented by Edunet Foundation, In collaboration with All India Council for Technical Education (AICTE) working on machine learning, deep learning, and generative AI projects under industry mentorship.
 
 ---
 
