@@ -13,14 +13,7 @@ Working at the intersection of AI and software engineering with hands-on experie
 - **Libraries/Frameworks:** PyTorch, TensorFlow, Hugging Face, OpenCV, Librosa, NLTK, Streamlit, Gradio  
 - **Tools:** Jupyter, Google Colab, VS Code, Git  
 - **Domains:** NLP, Generative AI, Speech, Emotion Detection, Computer Vision
-
-### Projects
-- **[AI Mental Health Support Chatbot](https://github.com/EasyIce667/AI-Powered-Mental-Health-Support-Chatbot-for-Crisis-Intervention)**  
-  Built an NLP-based chatbot for mental health support with sentiment and crisis detection using DistilBERT, and empathetic response generation via DialoGPT.
-
-- **[Indian News Summarizer](https://github.com/EasyIce667/Indian-News-Summarization)**  
-  Fine-tuned IndicBART to generate concise summaries of Hindi news articles. Deployed with a Gradio interface for interactive use.
-
+- 
 
 ### Experience
 - **AI & Azure Intern | Microsoft (Edunet Foundation x AICTE)**  
