@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Hardik</h1>
 
 <p align="center">
   <em>Machine Learning and NLP Enthusiast | Computer Science Undergraduate at TIET</em>
@@ -19,7 +18,3 @@ Working at the intersection of AI and software engineering with hands-on experie
 Completed a 4-week internship on AI Azure a Microsoft initiative Implemented by Edunet Foundation, In collaboration with All India Council for Technical Education (AICTE) working on machine learning, deep learning, and generative AI projects under industry mentorship.
 
 ---
-
-### Contact
-- **LinkedIn**: [linkedin.com/in/hardik-kundal-b72067190](https://www.linkedin.com/in/hardik-kundal-b72067190)  
-- **Email**: hkundal.be22@gmail.com  
