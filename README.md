@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Hardik</h1>
 
 <p align="center">
   <em>Machine Learning and NLP Enthusiast | Computer Science Undergraduate at TIET</em>
@@ -14,3 +15,6 @@ Working at the intersection of AI and software engineering with hands-on experie
 - **Domains:** NLP, Generative AI, Speech, Emotion Detection, Computer Vision
   
 ---
+### Contact
+- **LinkedIn**: [linkedin.com/in/hardik-kundal-b72067190](https://www.linkedin.com/in/hardik-kundal-b72067190)  
+- **Email**: hkundal.be22@gmail.com  
