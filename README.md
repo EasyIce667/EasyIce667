@@ -94,11 +94,6 @@ ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EasyIce667&theme=github-dark&hide_border=true" />
 </p>
 
-### Achievements & Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EasyIce667&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</p>
-
 ### Coding Activity (past 7 days)
 
 <!--START_SECTION:waka-->
