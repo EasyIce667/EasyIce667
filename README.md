@@ -94,18 +94,13 @@ ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EasyIce667&theme=github-dark&hide_border=true" />
 </p>
 
-### Coding Activity (past 7 days)
+### Coding Activity 
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-### GitHub Skyline (3D Contribution Visualization)
-<p align="center">
-  <a href="https://skyline.github.com/EasyIce667/2024">
-    <img src="https://img.shields.io/badge/View%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
 
 
 
