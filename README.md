@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/EasyIce667/EasyIce667/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=140&section=header&text=Hardik%20Kundal%20—%20Software%20Engineer&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="Header"/>
