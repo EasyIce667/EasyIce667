@@ -28,7 +28,7 @@
 ## Hi, I’m Hardik
 I'm a Software Engineer focused on **Applied AI/ML**, **LLM apps (RAG, LangChain/LangGraph)**, and rapid, production-grade prototyping with **Streamlit/Gradio**. I care about **reliability**, **readable code**, and **clean UX**.
 
--  Current interests: **RAG evaluation**, **prompt+systematic fine-tuning**, **LLM tooling**, **NLP for Indic languages**
+-  Current interests: **RAG evaluation**, **prompt+systematic fine-tuning**, **LLM tooling**
 -  Comfortable on **Azure** (ML, basic DevOps pipelines)
 -  I do: **design → data → model → deploy → docs**
 
@@ -66,17 +66,6 @@ I'm a Software Engineer focused on **Applied AI/ML**, **LLM apps (RAG, LangChain
 ### 2) Indian News Summarization — Fine-tuned IndicBART
 - **Stack:** PyTorch, Hugging Face, Indic NLP, Gradio  
 - **What I did:** Fine-tuned IndicBART for **abstractive** Hindi summarization; added batch inference and simple eval; deployed via Gradio.
-
-### 3) Audio Emotion Recognition
-- **Stack:** TensorFlow, Librosa, Streamlit  
-- **What I did:** Extracted **MFCCs/spectral features**; trained CNN; live waveform & spectrogram viz; Streamlit UI.
-
----
-
-## Experience
-**AI & Azure Virtual Internship** — Microsoft initiative via Edunet Foundation & AICTE  
-*June 2025 – July 2025*  
-- 4-week track on ML/DL/GenAI on **Microsoft Azure**: data prep, training/eval, reports & demos.
 
 ---
 
