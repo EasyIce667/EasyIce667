@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EasyIce667/EasyIce667/output/snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Banner: Professional gradient, shadow, and wider header for developer polish -->
 <p align="center">
@@ -101,6 +104,3 @@ ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EasyIce667/EasyIce667/output/snake.svg" alt="Snake animation" />
-</p>
