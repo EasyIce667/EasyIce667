@@ -106,5 +106,5 @@ ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data
 ---
 
 ##  Contact
-- Email: **hkundal.be22@gmail.com** *(consider writing: hkundal DOT be22 AT gmail DOT com)*
+- Email: **hkundal.be22@gmail.com** 
 - LinkedIn: https://www.linkedin.com/in/hardik-kundal-b72067190/
