@@ -1,6 +1,6 @@
 <!-- Banner: Professional gradient, shadow, and wider header for developer polish -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1da1f2,100:6366f1&height=170&section=header&text=Hardik%20Kundal%20—%20Software%20Engineer%20|%20AI%2FML%20Specialist&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlign=70" alt="Header" style="box-shadow:0 8px 24px rgba(0,0,0,0.14);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1da1f2,100:6366f1&height=175&section=header&text=Hardik%20Kundal%20%E2%80%94%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlign=50" alt="Header" style="box-shadow:0 8px 24px rgba(0,0,0,0.14);" />
 </p>
 
 <!-- Typing animation: Dev-focused, accent color, professional font -->
