@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/EasyIce667/EasyIce667/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Banner -->
 <p align="center">
