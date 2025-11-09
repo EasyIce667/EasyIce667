@@ -25,7 +25,7 @@ I'm a Software Engineer focused on **Applied AI/ML**, **LLM apps (RAG, LangChain
 
 -  Current interests: **RAG evaluation**, **prompt+systematic fine-tuning**, **LLM tooling**, **NLP for Indic languages**
 -  Comfortable on **Azure** (ML, basic DevOps pipelines)
--  I ship: **design → data → model → deploy → docs**
+-  I do: **design → data → model → deploy → docs**
 
 ---
 
