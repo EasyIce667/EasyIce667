@@ -62,17 +62,14 @@ I'm a Software Engineer focused on **Applied AI/ML**, **LLM apps (RAG, LangChain
 ### 1) Medical Chatbot — Document-grounded answers (RAG)
 - **Stack:** Python, Streamlit, LangChain, FAISS/HNSW, Hugging Face  
 - **What I did:** Built a retrieval-augmented pipeline (chunking → embeddings → vector search → LLM synthesis) with **citations** and **source highlighting**; deployed on Streamlit.
-- **Repo:** https://github.com/EasyIce667/Medical-Chatbot
 
 ### 2) Indian News Summarization — Fine-tuned IndicBART
 - **Stack:** PyTorch, Hugging Face, Indic NLP, Gradio  
 - **What I did:** Fine-tuned IndicBART for **abstractive** Hindi summarization; added batch inference and simple eval; deployed via Gradio.
-- **Repo:** https://github.com/EasyIce667/IndicBART-News-Summarization
 
 ### 3) Audio Emotion Recognition
 - **Stack:** TensorFlow, Librosa, Streamlit  
 - **What I did:** Extracted **MFCCs/spectral features**; trained CNN; live waveform & spectrogram viz; Streamlit UI.
-- **Repo:** https://github.com/EasyIce667/Audio-Emotion-Recognition
 
 ---
 
