@@ -95,13 +95,15 @@ ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Total Time: 1 hr 49 mins
+Total Time: 4 hrs 28 mins
 
-Python   1 hr 48 mins    ████████████████████████▓   99.16 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       3 hrs 54 mins   ██████████████████████░░░   87.36 %
+Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
