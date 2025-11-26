@@ -65,27 +65,12 @@ I'm a Software Engineer focused on **Applied AI/ML**, **LLM apps (RAG, LangChain
 
 ## 🎓 Education
 **Thapar Institute of Engineering and Technology** — B.E. Computer Science (*Sept 2022 – June 2026*)  
-**JK Public School** — PCM + Computer Science (2022)
 
 ---
 
 
 ## Coursework
 ML · NLP · Deep Learning · Generative AI · Operating Systems · DBMS · Data Structures
-
----
-
-## GitHub at a glance
-<!-- Glass-themed stats, centered for developer polish -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EasyIce667&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasyIce667&layout=compact&hide_border=true&langs_count=8&card_width=350" height="175" />
-</p>
-
-<!-- Contribution snake animation: centered, with professional alt text -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EasyIce667/EasyIce667/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity animation: Snake" height="80"/>
-</p>
 
 ---
 
